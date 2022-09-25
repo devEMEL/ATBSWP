@@ -1,0 +1,7 @@
+### AUTOMATE THE BORING STUFF WITH PYTHON
+
+GlassIt-VSC
+
+1.  PATTERN MATCHING WITH REGULAR EXPRESSIONS
+    - Use backslash to escape characters.
+   
