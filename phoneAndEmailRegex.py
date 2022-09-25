@@ -9,7 +9,6 @@ phoneNUmRegex = re.compile(r'(\d{3}|\(\d{3}\))?(\s|\.|-)?(\d{3})(-|\s|\.)(\d{4})
 # TODO 2: CReate email regex
 emailRegex = re.compile(r'([a-zA-Z0-9+-._%]+)(@)([a-zA-Z0-9.-]+)(\.[a-zA-Z]{2,4})')
 
-# =========================================================================================================
 
 # TODO 3: Find matches in the clipboard text
 
@@ -34,4 +33,3 @@ if len(matches) > 0:
 else:
     print('No phone numbers or email addresses found.')
 
-# =====================================================================================================
